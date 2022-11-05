@@ -1,7 +1,5 @@
 # Predicting Loan Qualifications
-![alt text](../images/loan-personal.jpg)
-
-### [Assignment](assignment.md)
+![alt text](images/loan-personal.jpg)
 
 ## Introduction
 Borrowing money is a big part of world these days, lots of factors may apply to wether or not you get approved for that loan you need for that thing you need. In this project, I will take a data set of loan applicants and look for patterns within to tell us more about approval selection
@@ -34,19 +32,20 @@ Resolved with log transformation
 
 ### Step 2: Build Preprocessing Pipeline
 Final Preprocessing Pipeline
-![alt text](../images/pipeline.png)
+![alt text](images/pipeline.png)
 
 
 ### Step 3: Model Building/Tuning
 Before Grid Search:
-![alt text](../images/confusion_mat.png)
+![alt text](images/confusion_mat.png)
 
 With parameter tuning we were able to improve accuracy to: 0.63
 
 
 ## Results/Demo
 AWS deployment test
-![alt text](../images/results.png)
+
+![alt text](images/results.png)
 
 
 

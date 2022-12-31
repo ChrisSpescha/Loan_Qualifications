@@ -9,12 +9,7 @@ Borrowing money is a big part of world these days, lots of factors may apply to 
 
 I believe that banks are mostly concerned with your income/assets when it comes to handing you their money, and that certain categorical attributes or demographic are not a big factor in this decision.
 
-## EDA 
-(fill in what you discovered in your exploration of the dataset)
-
-
 ## Process
-(fill in what you did during EDA, cleaning, feature engineering, modeling, deployment, testing)
 We want to automate the loan eligibility process based on customer details that are provided as online application forms are being filled. 
 
 ### Step 1: EDA 
